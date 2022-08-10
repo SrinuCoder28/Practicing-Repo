@@ -1,0 +1,17 @@
+.ansible
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.profile
+.ssh
+.sudo_as_admin_successful
+.viminfo
+.wget-hsts
+file
+file4.txt
+moon.txt
+one
+shekar.txt
+srinu.txt
+sun.txt
