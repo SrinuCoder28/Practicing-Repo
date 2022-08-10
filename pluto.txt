@@ -1,0 +1,24 @@
+1 my price  total
+2 my price 4096 13:14
+3 my price 4096 11:11
+4 my price 4096 13:11
+5 my price 5178 11:20
+6 my price 220 2022
+7 my price 3771 2022
+8 my price 4096 10:53
+9 my price 807 2022
+10 my price 12288 11:02
+11 my price 4096 10:52
+12 my price 0 10:57
+13 my price 10301 11:35
+14 my price 228 13:34
+15 my price 208 11:11
+16 my price 21 10:29
+17 my price 1237 13:09
+18 my price 1980 10:36
+19 my price 65 11:35
+20 my price 4096 12:57
+21 my price 0 13:14
+22 my price 21 10:32
+23 my price 3369 13:13
+24 my price 168 10:39

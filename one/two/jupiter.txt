@@ -1,0 +1,23 @@
+total 100
+drwxr-x--- 6 ubuntu ubuntu  4096 Jul 27 13:09 ./
+drwxr-xr-x 4 root   root    4096 Jul 26 11:11 ../
+drwxrwxr-x 3 ubuntu ubuntu  4096 Jul 16 13:11 .ansible/
+-rw------- 1 ubuntu ubuntu  5178 Jul 26 11:20 .bash_history
+-rw-r--r-- 1 ubuntu ubuntu   220 Jan  6  2022 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu  3771 Jan  6  2022 .bashrc
+drwx------ 2 ubuntu ubuntu  4096 Jul 16 10:53 .cache/
+-rw-r--r-- 1 ubuntu ubuntu   807 Jan  6  2022 .profile
+-rw-r--r-- 1 ubuntu ubuntu 12288 Jul 26 11:02 .srinu.txt.swp
+drwx------ 2 ubuntu ubuntu  4096 Jul 16 10:52 .ssh/
+-rw-r--r-- 1 ubuntu ubuntu     0 Jul 16 10:57 .sudo_as_admin_successful
+-rw------- 1 ubuntu ubuntu 10301 Jul 27 11:35 .viminfo
+-rw-rw-r-- 1 ubuntu ubuntu   228 Jul 16 13:34 .wget-hsts
+-rw-rwxrw- 1 ubuntu ubuntu   208 Jul 27 11:11 file*
+-rw-rw-r-- 1 ubuntu ubuntu    21 Jul 26 10:29 file4.txt
+-rw-rw-r-- 1 ubuntu ubuntu     0 Jul 27 13:09 jupiter.txt
+-rw-rw-r-- 1 ubuntu ubuntu  1980 Jul 26 10:36 moon.txt
+-rw-rw-r-- 1 ubuntu ubuntu    65 Jul 27 11:35 new.txt
+drwxrwxr-x 3 ubuntu ubuntu  4096 Jul 27 12:57 one/
+-rw-rw-r-- 1 ubuntu ubuntu    21 Jul 26 10:32 shekar.txt
+-rw-rw-r-- 1 ubuntu ubuntu  2868 Jul 26 11:18 srinu.txt
+-rw-rw-r-- 1 ubuntu ubuntu   168 Jul 26 10:39 sun.txt

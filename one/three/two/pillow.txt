@@ -1,0 +1,10 @@
+this is root        2069     686  0 11:44 ?        00:00:00 sshd: ubuntu [priv]
+this is ubuntu      2072       1  0 11:44 ?        00:00:00 /lib/systemd/systemd --user
+this is ubuntu      2073    2072  0 11:44 ?        00:00:00 (sd-pam)
+this is ubuntu      2133    2069  0 11:44 ?        00:00:00 sshd: ubuntu@pts/0
+this is ubuntu      2134    2133  0 11:44 pts/0    00:00:00 -bash
+this is ubuntu      2414    2134  0 12:17 pts/0    00:00:00 top
+this is ubuntu      2449    2134  0 12:28 pts/0    00:00:00 ping gooel.com
+this is ubuntu      2452    2134  0 12:29 pts/0    00:00:00 ping gooel.com
+this is ubuntu      2557    2134  0 12:54 pts/0    00:00:00 ps -ef
+this is ubuntu      2558    2134  0 12:54 pts/0    00:00:00 awk /ubuntu/ {print "this is "$0}
